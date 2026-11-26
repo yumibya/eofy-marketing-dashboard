@@ -1,5 +1,4 @@
 -- ============================================================
--- BUSA8090 Assignment 1 - David Jones
 -- Part B: Business concern queries (EOFY 2026 campaign, in flight)
 --
 -- Every query below is a stand-alone SELECT statement.
