@@ -1,6 +1,5 @@
 -- ============================================================
--- BUSA8090 Assignment 1 - David Jones
--- 1.5 Table Implementation
+-- Table Implementation
 -- Translates the 11-entity Chen's notation ERD into MySQL DDL
 -- Creation order respects foreign key dependencies.
 -- Note: CHECK constraints require MySQL 8.0.16+ to be enforced.
