@@ -1,4 +1,4 @@
-# EOFY 2026 Social Campaign Performance Dashboard
+# EOFY 2026 David Jones Social Campaign Performance Dashboard
 
 A one-page Power BI dashboard analysing a simulated retail EOFY social media campaign, built to show how a marketing analyst can separate what the data shows from what it cannot show.
 
